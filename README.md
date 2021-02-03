@@ -4,6 +4,8 @@
 
 My name is Leila Aparecida da Silva. I work as a Python/Django Developer.
 
+[Linkedin](http://www.linkedin.com/in/leilaapsilva)
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leilaapsilva&repo=leilaapsilva&countColorcountColor)
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilaapsilva&layout=compact&count_private=true)
