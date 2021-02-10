@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
 
-My name is Leila Aparecida da Silva. I work as a Python/Django Developer.
+My name is Leila Aparecida da Silva. I work as a Python/Django Developer at [SenseData](https://www.sensedata.com.br/)
 
 [Linkedin](http://www.linkedin.com/in/leilaapsilva)
 
